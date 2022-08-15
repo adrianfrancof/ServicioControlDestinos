@@ -1,8 +1,8 @@
-# Spring Security
+# Servicio Control Destinos para viajes
 
-_Proyecto que permite desplegar vistas respondiendo a las peticiones (request) a traves del controlador utilizando
+_Proyecto que permite desplegar destinos de viajes asignando pasajeros respondiendo a las peticiones (request) a traves del controlador utilizando
 
-* jpa, thymelead, spring web, oracle driver, lombok
+* jpa, thymeleaf, spring web, oracle driver, lombok
 _
 
 ## Comenzando 🚀
